@@ -27,10 +27,10 @@ uppy.use(ActiveStorageUpload, {
 
 ```bash
 yarn add @rails/activestorage
-yarn add https://github.com/anark/uppy-activestorage-upload
+yarn add https://github.com/abhinavmathur/uppy-activestorage-upload
 or
 npm install @rails/activestorage
-npm install https://github.com/anark/uppy-activestorage-upload --save
+npm install https://github.com/abhinavmathur/uppy-activestorage-upload --save
 ```
 
 We recommend installing from npm and then using a module bundler such as [Webpack](http://webpack.github.io/), [Browserify](http://browserify.org/) or [Rollup.js](http://rollupjs.org/).
